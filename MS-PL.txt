@@ -1,0 +1,35 @@
+Microsoft Public License (MS-PL)-微软公共授权许可证
+
+This license governs use of the accompanying software. If you use the software, you
+accept this license. If you do not accept the license, do not use the software.
+此许可证制约随附软件的使用。如果使用了该软件即表示您接收此许可证，如果您不接受此许可证请不要使用该软件。
+
+
+1. Definitions-定义
+The terms "reproduce," "reproduction," "derivative works," and "distribution" have the
+same meaning here as under U.S. copyright law.
+条款中“复制”、“复制品”、“衍生作品”和“发布”的含义与美国版权法中这些词语的的含义相同。
+A "contribution" is the original software, or any additions or changes to the software.
+“著作品”是指原始软件和对该软件进行的任何添加和更改。
+A "contributor" is any person that distributes its contribution under this license.
+“著作人”是指依据此许可证发布其作品的任何人。
+"Licensed patents" are a contributor's patent claims that read directly on its contribution.
+“许可专利”是指在作品上直接可读的著作人的专利声明。
+
+2. Grant of Rights-授予的权利
+(A) Copyright Grant- Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free copyright license to reproduce its contribution, prepare derivative works of its contribution, and distribute its contribution or any derivative works that you create.
+版权授予-根据本许可证的条款，包括第3章节中的许可条件和限制，每个著作人有权授予您非独家、世界范围内、免版权税地复制其作品、开发其作品的衍生品并且发行其作品或是您创作的衍生作品。
+(B) Patent Grant- Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free license under its licensed patents to make, have made, use, sell, offer for sale, import, and/or otherwise dispose of its contribution in the software or derivative works of the contribution in the software.
+专利授予-根据本许可证的条款，包括第3章节中的许可条件和限制，每个著作人有权授予您非独家、世界范围内、免版权税地制作、制成、使用、销售、预约销售、导入、并且\或者以其它方式处理此软件或此软件的衍生作品中其著作的部分。
+
+3. Conditions and Limitations-条件和限制
+(A) No Trademark License- This license does not grant you rights to use any contributors' name, logo, or trademarks.
+没有商标许可-此许可证不授予您使用任何著作人地姓名、标志或商标的权利。
+(B) If you bring a patent claim against any contributor over patents that you claim are infringed by the software, your patent license from such contributor to the software ends automatically.
+如果您提出的专利主张与任何著作人的专利相对立而导致您被侵权，则您从此著作人处得到的关于此软件的任何专利许可将自动终止。
+(C) If you distribute any portion of the software, you must retain all copyright, patent, trademark, and attribution notices that are present in the software.
+如果您发行了该软件的任何部分，您必须保留该软件现有的所有版权、专利、商标和归属声明。
+(D) If you distribute any portion of the software in source code form, you may do so only under this license by including a complete copy of this license with your distribution. If you distribute any portion of the software in compiled or object code form, you may only do so under a license that complies with this license.
+如果您以源代码形式发行了该软件的任何部分，则您只有根据此许可证条款以包含此许可证的完整副本形式来发行。如果您以编译过的或目标代码的形式发行该软件的任何部分，则只能依据一个内容与此许可证相符合的许可证进行发行。
+(E) The software is licensed "as-is." You bear the risk of using it. The contributors give no express warranties, guarantees or conditions. You may have additional consumer rights under your local laws which this license cannot change. To the extent permitted under your local laws, the contributors exclude the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
+软件“按原样”许可，您将自己承担使用该软件的风险。著作人不提供任何明示的担保、保证或条件。根据所在地区的法律，您可以拥有其它许可证无法更改的消费者权利。在您当地法律允许的范围内，著作人排除对适销性、特定目的适用性和非侵权的默示保证。
